@@ -10,7 +10,7 @@ categories:
   - Featured
 sources:
   - https://github.com/codefresh-contrib/cf-vault-plugin
-icon: 'https://raw.githubusercontent.com/codefresh-io/plugins/new-pipeline/plugins/vault/logo.jpg'
+icon: 'https://raw.githubusercontent.com/codefresh-plugins/cf-vault-plugin/master/logo.png'
 maintainers:
   - name: Alexander Aladov
 envs:
