@@ -7,7 +7,7 @@ keywords:
   - keys
   - security
 categories:
-  - Featured
+  - featured
 sources:
   - https://github.com/codefresh-contrib/cf-vault-plugin
 icon: 'https://raw.githubusercontent.com/codefresh-plugins/cf-vault-plugin/master/og-image.png'
