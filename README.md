@@ -30,7 +30,7 @@ steps:
 
   Vault_to_Env:
     title: Importing vault values
-    image: 'codefresh/cf-vault-plugin'
+    image: codefreshplugins/cf-vault-plugin
     environment:
       - VAULT_ADDR=${{VAULT_ADDR}}
       - VAULT_PATH=${{VAULT_PATH}}
